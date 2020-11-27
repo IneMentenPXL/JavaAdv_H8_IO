@@ -18,5 +18,4 @@ public class Demo02Path {
 		System.out.println(srcDir.getClass().getName());
 		System.out.println(Files.isDirectory(srcDir));
 	}
-
 }

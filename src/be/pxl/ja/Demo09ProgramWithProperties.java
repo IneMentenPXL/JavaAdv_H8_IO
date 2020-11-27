@@ -44,5 +44,4 @@ public class Demo09ProgramWithProperties {
 		}
 
 	}
-
 }

@@ -27,5 +27,4 @@ public class Demo07BufferedWriter {
 			e.printStackTrace();
 		}
 	}
-
 }

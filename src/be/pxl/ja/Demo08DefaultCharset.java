@@ -8,5 +8,4 @@ public class Demo08DefaultCharset {
 
 		System.out.println(Charset.defaultCharset().displayName());
 	}
-
 }

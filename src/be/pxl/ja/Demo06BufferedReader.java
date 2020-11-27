@@ -18,5 +18,4 @@ public class Demo06BufferedReader {
 			e.printStackTrace();
 		}
 	}
-
 }
